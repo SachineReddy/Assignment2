@@ -1,2 +1,2 @@
-# Assignment2
+# Simple HTML website
  Basic website for Vecta Corp
